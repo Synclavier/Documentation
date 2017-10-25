@@ -1,2 +1,2 @@
 # Synclavier
-Official Software and Documentation for the Synclavier® Digital Audio System
+Official User and Technical Documentation for the Synclavier® Digital Audio System
