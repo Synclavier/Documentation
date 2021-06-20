@@ -1,0 +1,57 @@
+/* Converted Data from Synclavier II   (converted with Rel I) */
+
+Clickmultiplier 4
+
+Define Partial Timbre1.Partial1
+  Volenv          0      0    888    300  100.0   76.0
+  FMenv           0      0    430    746    247      0
+  Tuning      220.0
+  Port.rate     Log  0.400
+End Timbre1.Partial1
+
+Define Timbre Timbre1
+  Partial Timbre1.Partial1
+  Rte  Pedal P1 
+End Timbre1
+
+Notelist Timbre1  Track 1
+  KeySig C 
+  Startloop   2.000
+/* Measure 2 begins at   2.000 */
+  2.000  G2   0.215
+  2.250  D2   0.245
+  2.500  F2   0.165
+  2.750  G2   0.205
+  3.000  F2   0.175
+  3.250  D2   0.200
+  3.500  C2   0.240
+  3.750  D2   0.265
+/* Measure 3 begins at   4.000 */
+  4.000  G2   0.255
+  4.250  D2   0.245
+  4.500  F2   0.205
+  4.750  G2   0.230
+  5.000  F2   0.230
+  5.250  D2   0.245
+  5.500  C2   0.225
+  5.750  D2   0.240
+/* Measure 4 begins at   6.000 */
+  6.000  G2   0.275
+  6.250  D2   0.270
+  6.500  F2   0.230
+  6.750  G2   0.260
+  7.000  F2   0.310
+  7.250  D2   0.260
+  7.500  C2   0.245
+  7.750  D2   0.220
+/* Measure 5 begins at   8.000 */
+  8.000  G2   0.245
+  8.250  D2   0.250
+  8.500  F2   0.225
+  8.750  G2   0.230
+  9.000  F2   0.235
+  9.250  D2   0.255
+  9.500  C2   0.260
+  9.750  D2   0.250
+  Endloop    10.000
+End 

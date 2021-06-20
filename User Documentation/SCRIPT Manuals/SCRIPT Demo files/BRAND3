@@ -1,0 +1,102 @@
+tempo 4=85
+keysig g
+
+/* violin I: */
+notelist using 2-1
+articulation multiplier 90.0
+volume multiplier 100.0
+
+/* upbeat: */
+p g f
+r s s
+v 35 40
+
+/* measure 1: */
+p g   d c d   g f g   b2 a b   g3 f
+r e   s s e   s s e    s s e    s s
+v 45  35 40 45  (45 50 55)2  55 60
+
+/* measure 2: */
+p g  g2 a b c#3   {d c# d} e   d f d g
+r e   s s e   e    s  s s  s   s s s s
+v 70  60 65 70  75  70 65 65 70  70 75 80 90
+
+/* measure 3: */
+p {d c# d} e  d a d b  {d c# d} e  d c4 d3 d4
+r (s)16
+v 75 70 70 75  80 75 85 90  75 70 70 75  85 80 90 100
+
+/* measure 4: */
+p b3 a g  a g f  g f e  d g d g
+r (e s s)3 (s)4
+v 100 95 85  90 85 75  80 70 65  65 70 70 75
+
+/* measures 5: */
+p e d c  b2 g3 b2 g3  c3 b2 a2  g2 g3 a2 g3
+r(e(s)6)2
+v  75 65 60  65 65 65 65  65 60 60  50 50 55 55
+
+/* measure 6: */
+p b2 g3 c# g3  d f d g  d a d b  d3 c4 d3 d4
+r (s)16
+v  50 55 55 57  60 65 65 67  70 75 75 80  80 85 85 90
+
+/* measures 7 & 8: */
+p b3 a g  d f  g f e  d3 c3 b2 a2  b a g  d3 d3 g2 
+r  e s s  e e  e s s  s  s  s  s 16+15 14 13 13+12 12+11 4/10
+v  90 85 80  70 75  80 75 70  70 70 65 65  65 70 70  70 70  70
+end
+
+notelist using 2-1
+articulation multiplier 90.0
+volume multiplier 60.0
+
+/* upbeat and measures 1 & 2: */
+p g2  b2 d3 b2 g2  b2 d3 b2 g2  b2 d3  g b a g   f d r b
+r  e   e  e  e  e   e  e  e  e   e  e  s s s s   e e e e
+v  40  35 35 35 40  40 40 40 45  50 55  60 65 65 65  70 70  0  60
+
+/* measures 3 & 4: */
+p f d r g  f d r a  d3 c3 b2  c3 b2 a2  g2 g3 g3 g2
+r e e e e  e e e e   e  s  s   e  s  s   e  e  e  e
+v  65 65  0  65 60 60  0  70  80 85 85  75 80 80  70 70 70 65
+
+/* measures 5 & 6: */
+p (g2 g3 g3 g2)2  g2 g3 f3 g3  a3 b3 c4 d4
+r ( e  e  e  e)2   e  e  e  e   e  e  e  e
+v  60 60 60 55  50 50 50 55  60 60 65 70  70 75 80 90 
+
+/* measures 7 & 8: */
+p b3 a g  d f  g f e  d3 c3 b2 a2  b a g  d3 d2  g2
+r  e s s  e e  e s s  s  s  s  s  16+15 14 13 13+12 12+11 4/10
+v  90 85 80  70 75  80 75 75 70 70 70 70  70 65 65 70 70 75
+end
+
+notelist using 2-2
+articulation multiplier 80.0
+volume multiplier 40.0
+
+/* upbeat: */
+p g1
+r  e
+v 40
+
+/* measures 1 & 2: */
+p  g1 g2 g2 g1  g1 g2 g2 g1  g1 g2 f e a  d d3 c# d d2
+r   e  e  e  e   e  e  e  e   e  s s e e  e  s  s e  e
+v  (35)4 (40)4  45 50 55 55 55  (60)5
+
+/* measures 3 & 4: */
+p d2 d3 c#  d3 d2  d2 d3 c#  d3 f2  g e c d  e d c  b1 a g
+r  e  s  s   e  e   e  s  s   e  e  e e e e  e s s   e s s
+v  (70)5  70 75 75 80 80  (90)4  90 85 80  85 80 75
+
+/* measures 5 & 6: */
+p c2 b1 a1  g1 g2 f2  e d c  b1 c#2  d2 d1  d1 d2 e2  f g a f
+r  e  s  s   e  s  s  e s s   e   e   e  e   e  s  s  e e e e
+v 80 75 70 75  65 70 65 60  60 65 65 60  65 65 70 70  80 85 90 100
+
+/* measures 7 & 8: */
+p g2 c3 d3 d2  g f e  d2 c2 b1 a1  b a g  d2 d1 g1
+r  e  e  e  e  e s s   s  s  s  s  16+15 14 13 13+12 12+11 4/10
+v 90 95 100 80  80 85 90 85 80 75 70  70 75 80  80 80  80

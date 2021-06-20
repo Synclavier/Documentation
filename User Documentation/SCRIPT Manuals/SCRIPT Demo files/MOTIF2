@@ -1,0 +1,14 @@
+DEFINE MOTIF Mozart
+KEYSIG BF
+ P  B   C4  B3  C4  D    E  F  E   D
+ R  1   4   4   4   4    4  4  2   1
+END Mozart
+
+TEMPO 2 = 100
+NOTELIST USING 1-8
+PERFORM Mozart
+END
+
+NOTELIST USING 8-1
+PERFORM Mozart (R)
+END

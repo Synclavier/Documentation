@@ -1,0 +1,31 @@
+DEFINE MOTIF Transformations
+
+ P C4  B3  G   A  G  F  G  C4   D  E  F  D   C
+ R 2   4   4   4  8  8  4  4    8  8  8  8   2
+END Transformations
+
+TEMPO 2 = 120
+NOTELIST USING 2-4
+PERFORM Transformations         /* Straight performance */
+P . 
+R 1
+PERFORM Transformations (T(G))  /* Tonal transposition */
+P .
+R 1
+PERFORM Transformations (ST(G)) /* Strict transposition */
+P .
+R 1
+PERFORM Transformations (I)     /* Tonal inversion */
+P .
+R 1
+PERFORM Transformations (SI)    /* Strict inversion */
+P .
+R 1
+PERFORM Transformations (R)     /* Retrograde performance */
+P . 
+R 1
+PERFORM Transformations (PR)    /* Pitch-only retrograde */
+P .
+R 1
+PERFORM Transformations (RR)    /* Rhythm-only retrograde */
+END

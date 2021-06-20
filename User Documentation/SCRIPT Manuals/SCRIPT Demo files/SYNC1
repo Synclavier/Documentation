@@ -1,0 +1,29 @@
+TEMPO 4=126
+AT BEAT 7 RITARD TO 4=72 IN 2
+AT BEAT 9 TEMPO 4=126
+
+FPS 24
+DELAY BEAT 1 TO :12
+SYNC BEAT 7 TO :3:12  
+
+KEYSIG D
+TIMBRE 75
+
+NOTELIST USING 2-5
+
+  P  F  G  A    B   B   {C4  D   E}  C   D
+  R  4  4  2    4.  8    8   8   8   8   2.
+  V  30 25 30   50  45   70  75  80  85  90
+  A  60 60 60   70  50   100 100 100 25  100
+
+END
+
+NOTELIST USING 2-5
+
+  P  A3  D     E   F  F  F  G  G# A   G    [F    A] 
+  R  32  4-32  4  (4T)3     4. 8  4   4     2.   2.
+  V  15  30    60 (25)3     40 35 60  70    85   80
+  A  100 60    60 (50)3     70 50 60  70    100  100  
+  T  50  75    75 (50)3     75 50 75  75    100  100
+
+END

@@ -1,0 +1,27 @@
+/* An example of a two-part composition 
+written in two notelists */
+
+NOTELIST USING 1-8
+
+  P   E F G                    /* Measure 1 */
+  R   4 4 2
+                          
+  P   A   A  B  C4  D  B3      /* Measure 2 */
+  R   4.  8  8  7   6  5 
+
+  P   C4                       /* Measure 3 */
+  R   2.  
+
+END
+NOTELIST USING 1-2
+
+  P   G3  C    D  E  E  E      /* Measure 1 */
+  R   16  4-16 4  4T 4T 4T
+
+  P   F   F#  G   F             /* Measure 2 */
+  R   4.  8   8+7 6+5    
+
+  P   E                        /* Measure 3 */
+  R   2.  
+
+END

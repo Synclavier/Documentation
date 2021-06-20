@@ -1,0 +1,25 @@
+NOTELIST USING 1-8
+
+ P  {E F G}   
+ R   4 4 2
+
+ P  A   A  {B  C4  D}  B3
+ R  4.  8   8  8   8   8
+
+ P  C4
+ R  2.
+ 
+END
+
+NOTELIST USING 1-5
+
+ P G3  C    D   (E)3
+ R 32  4-32 4   (4T)3
+
+ P  F  F#  G  F  
+ R  4. 8   4  4    
+
+ P  [G  E]
+ R   2. 2.
+
+END

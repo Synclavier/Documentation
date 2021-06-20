@@ -1,0 +1,11 @@
+define partial flute1         /* a simple partial timbre  */
+  volenv 0 10 500 500 100 50
+  harmonics 100 50 33 25 12.5
+  tuning 440.0
+  vibrato sine 6.50 .10 500
+  decay .100
+end flute1
+
+define timbre flute           /* timbre definition */
+  partial flute1
+end flute
