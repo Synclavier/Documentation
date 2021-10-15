@@ -1,4 +1,4 @@
-Note: A good starting point if you are searching for a topic is the Master Index.
+Note: A good starting point if you are searching for a topic is the "RG-06 Master Index.pdf" in folder "1 Reference Guide".
 
 The 2-letter abbreviation on each folder combined with a chapter number (2-digit) is used in the Master Index (RG-04 = Reference Guide Chapter 4, IN-02 = Introduction Chapter 2, etc.), so I decided to use these also as prefixes for the documents in the folders. 
 
