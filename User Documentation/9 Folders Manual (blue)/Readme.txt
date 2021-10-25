@@ -7,3 +7,5 @@ My HP-Scanner did not offer a format that comes closer to the page size which is
 So pages are slightly longer than they must be:(
 
 Manfred Waluga  10/2021
+
+Thank you Danny Weijermans for sending me the missing Chapter 3 from the SK-Folder!
