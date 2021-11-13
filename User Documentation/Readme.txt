@@ -4,6 +4,8 @@ Later on with the 3200, 6400 and 9600 models and the Tapeless Studio concept the
 into more folders for specific topics. The "blue manuals" that I own are in 3 boxes with 3 folders each in a more handy format.
 
 Any additional information you might have on the history of documentation is welcome :)
+Note: In some cases title pages or tables of content did not fit into the page numbering of a chapter.
+      In such cases I separated such pages to keep the pagenumbers in the main document according to the numbers printed.
 
 Manfred Waluga 11/2021
 Many thanks to "Nathan Nednerd" for letting me scan the Synclavier II manual for you all!
