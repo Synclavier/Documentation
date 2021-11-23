@@ -1,3 +1,3 @@
-This Scan-Job is in progress. I hope to finish it during the coming 2 months.
+This Scan-Job is nearly finished. Just a few documents left...
 
-Manfred Waluga  06/2021
+Manfred Waluga  11/2021
