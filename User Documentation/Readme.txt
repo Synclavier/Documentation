@@ -1,7 +1,9 @@
+These manuals were scanned with embedded readable text, so it's simple to search through them, or even to copy & paste the content to setup individual "quick guides" if you like.
+
 The first manual was the Synclavier II Instruction Manual from around 1981.
-The documentation that came in 3 folders was from around 1985/86.
+The documentation that came in 3 folders was then from around 1985/86.
 Later on with the 3200, 6400 and 9600 models and the Tapeless Studio concept the manuals were re-organized
-into more folders for specific topics. The "blue manuals" that I own are in 3 boxes with 3 folders each in a more handy format.
+into more folders for specific topics. The "blue manuals" that I scanned so far are in  14 folders each in a more handy format.
 
 Any additional information you might have on the history of documentation is welcome :)
 Note: In some cases title pages or tables of content did not fit into the page numbering of a chapter.
@@ -9,6 +11,3 @@ Note: In some cases title pages or tables of content did not fit into the page n
 
 Manfred Waluga 11/2021
 Many thanks to "Nathan Nednerd" for letting me scan the Synclavier II manual for you all!
-
-Manfred Waluga 11/2021
-Further blue manuals scanned. Soon we should be very complete.
