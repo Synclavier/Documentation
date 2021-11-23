@@ -9,3 +9,6 @@ Note: In some cases title pages or tables of content did not fit into the page n
 
 Manfred Waluga 11/2021
 Many thanks to "Nathan Nednerd" for letting me scan the Synclavier II manual for you all!
+
+Manfred Waluga 11/2021
+Further blue manuals scanned. Soon we should be very complete.
