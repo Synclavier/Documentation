@@ -11,4 +11,4 @@ Note: In some cases title pages or tables of content did not fit into the page n
       In such cases I separated such pages to keep the pagenumbers in the main document according to the numbers printed.
 
 Manfred Waluga 11/2021
-Many thanks to "Nathan Nednerd" for letting me scan the Synclavier II manual for you all!
+Many thanks to "Nathan Nednerd" for providing the Synclavier II manual for scanning!
