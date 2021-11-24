@@ -1,6 +1,6 @@
 These manuals were scanned with embedded readable text, so it's simple to search through them, 
 or even to copy & paste the content to setup your individual "quick guide" if you like.
-To get the best view-result, download the files and use your favourite PDF-viewer.
+To get the best view-result, download the files and use your preferred PDF-viewer.
 
 The first manual was the Synclavier II Instruction Manual from around 1981.
 The documentation that came in 3 folders was then from around 1985/86.
