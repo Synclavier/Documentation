@@ -14,3 +14,8 @@ Note: In some cases title pages or tables of content did not fit into the page n
       
 Manfred Waluga 11/2021
 Many thanks to "Nathan Nednerd" for providing the Synclavier II manual for scanning!
+
+Manfred Waluga 04/2022
+Thanks to Cameron Jones I got contact to Lee R. Kopp fom Kopperhead Compositions. 
+He  contributed a lot of documents that had not been recorded before. 
+Thank you so much Lee for your cooperation in this archiving project!
