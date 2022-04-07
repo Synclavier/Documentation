@@ -17,6 +17,6 @@ Many thanks to "Nathan Nednerd" for providing the Synclavier II manual for scann
 
 Manfred Waluga 04/2022
 Thanks to Cameron Jones I got contact to Lee R. Kopp fom Kopperhead Compositions. 
-He  contributed a lot of documents that had not been recorded before. 
+He  contributed a lot of documents that had not been scanned before. 
 Release L Manual is the first of it. The others will be added during the coming weeks.
 Thank you so much Lee for your cooperation in this archiving project!
