@@ -20,3 +20,6 @@ Thanks to Cameron Jones I got contact to Lee R. Kopp fom Kopperhead Compositions
 He  contributed a lot of documents that had not been scanned before. 
 Release L Manual is the first of it. The others will be added during the coming weeks.
 Thank you so much Lee for your cooperation in this archiving project!
+
+Manfred Waluga 04/2023
+Torsten M. Abel contributed an early document about the CIM (Clock Interface Modul).
