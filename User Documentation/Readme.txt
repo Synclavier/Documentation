@@ -23,3 +23,4 @@ Thank you so much Lee for your cooperation in this archiving project!
 
 Manfred Waluga 04/2023
 Torsten M. Abel contributed an early document about the CIM (Clock Interface Modul).
+Thanks Torsten!
