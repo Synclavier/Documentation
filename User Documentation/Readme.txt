@@ -12,8 +12,13 @@ Any additional information you might have on the history of the Synclavier docum
 Note: In some cases title pages or tables of content did not fit into the page numbering of a chapter.
       In such cases I separated these pages to keep the pagenumbers in the main document according to the numbers printed.
       
-Manfred Waluga 11/2021
-Many thanks to "Nathan Nednerd" for providing the Synclavier II manual for scanning!
+Manfred Waluga 05/2023
+Finally the missing chapters of "Introduction to Direct-To-Disk" Manual could be completed!
+Thank you very much Ra Amon and Laurent Lemaire! 
+
+Manfred Waluga 04/2023
+Torsten M. Abel contributed an early document about the CIM (Clock Interface Modul).
+Thanks Torsten!
 
 Manfred Waluga 04/2022
 Thanks to Cameron Jones I got contact to Lee R. Kopp fom Kopperhead Compositions. 
@@ -21,6 +26,5 @@ He  contributed a lot of documents that had not been scanned before.
 Release L Manual is the first of it. The others will be added during the coming weeks.
 Thank you so much Lee for your cooperation in this archiving project!
 
-Manfred Waluga 04/2023
-Torsten M. Abel contributed an early document about the CIM (Clock Interface Modul).
-Thanks Torsten!
+Manfred Waluga 11/2021
+Many thanks to "Nathan Nednerd" for providing the Synclavier II manual for scanning!
