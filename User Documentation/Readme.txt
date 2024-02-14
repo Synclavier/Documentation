@@ -13,7 +13,7 @@ Note: In some cases title pages or tables of content did not fit into the page n
       In such cases I separated these pages to keep the pagenumbers in the main document according to the numbers printed.
       
 Manfred Waluga 02/2024
-I uploaded the 3 Volumes Manuals from 1994, which seems to be a more compact, reformatted version of the Blue Manuals.
+I uploaded the 3 Volumes Manuals from 1994, which seem to be a more compact, reformatted version of the Blue Manuals.
 
 Manfred Waluga 05/2023
 Finally the missing chapters of "Introduction to Direct-To-Disk" Manual could be completed!
