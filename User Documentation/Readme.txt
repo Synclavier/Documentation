@@ -28,3 +28,6 @@ Thank you so much Lee for your cooperation in this archiving project!
 
 Manfred Waluga 11/2021
 Many thanks to "Nathan Nednerd" for providing the Synclavier II manual for scanning!
+
+Manfred Waluga 02/2024
+I uploaded the 3 Volumes Manuals from 1994, which seems to be a more compact, reformatted version of the Blue Manuals.
