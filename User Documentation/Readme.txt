@@ -12,6 +12,9 @@ Any additional information you might have on the history of the Synclavier docum
 Note: In some cases title pages or tables of content did not fit into the page numbering of a chapter.
       In such cases I separated these pages to keep the pagenumbers in the main document according to the numbers printed.
       
+Manfrecd Waluga 10/2024
+Thanks to Michael Glanton using chatGPT to generate a handy table of BPM to Hertz conversions for various tempos and note lengths.
+
 Manfred Waluga 02/2024
 I uploaded the 3 Volumes Manuals from 1994, which seem to be a more compact, reformatted version of the Blue Manuals.
 
